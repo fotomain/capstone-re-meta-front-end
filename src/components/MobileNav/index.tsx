@@ -1,8 +1,8 @@
 import { useState, FC, HTMLAttributes } from "react";
 import { HashLink } from "react-router-hash-link";
 import { Container, Menu } from "./styles";
-import logoImg from "../../assets/Logo.svg";
-import menuImg from "../../assets/icon _hamburger_menu.svg";
+import logoImg from "../../assets/logo_main.svg";
+import menuImg from "../../assets/hamburger_menu_icon.svg";
 import basketImg from "../../assets/basket.svg";
 import closeImg from "../../assets/close.svg";
 

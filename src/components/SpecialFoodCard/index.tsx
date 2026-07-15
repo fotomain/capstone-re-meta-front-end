@@ -1,6 +1,6 @@
-import { FC, HTMLAttributes } from "react";
+import {FC, HTMLAttributes, JSX} from "react";
 import { Container, Image, Header, Body, CallToAction } from "./styles";
-import deliveryIcon from "../../assets/deliveryIcon.svg";
+import deliveryIcon from "../../assets/delivery_icon.svg";
 
 interface SpecialFoodCardProps extends HTMLAttributes<HTMLDivElement> {
   imageUrl: string;

@@ -1,7 +1,7 @@
 import {FC, HTMLAttributes, JSX} from "react";
 import { HashLink } from "react-router-hash-link";
 import { Container } from "./styles";
-import logoImg from "../../assets/Logo.svg";
+import logoImg from "../../assets/logo_main.svg";
 import basketImg from "../../assets/basket.svg";
 
 const Nav: FC<HTMLAttributes<HTMLElement>> = (props): JSX.Element => {
