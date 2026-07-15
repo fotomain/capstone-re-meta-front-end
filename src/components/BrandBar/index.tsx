@@ -1,7 +1,7 @@
 import {FC, JSX} from "react";
 import { BrandBarContainer, BrandBarContent, Image } from "./styles";
-import Mario_and_Adrian_A from "../../assets/Mario_and_Adrian_A.jpg";
-import Mario_and_Adrian_B from "../../assets/Mario_and_Adrian_B.jpg";
+import Mario_and_Adrian_A from "../../assets/chief1.jpg";
+import Mario_and_Adrian_B from "../../assets/chief2.jpg";
 
 const BrandBar: FC = (): JSX.Element => {
   return (
